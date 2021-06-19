@@ -1,9 +1,11 @@
 # @unifiton/kantanni
 ## dev branch
+                                                                               
 
+### ***sometimes the truth hurts***
 
-i REALLY don't know what i'm doing with this.
-
+## About
+here are some links, i don't know what i'm doing.
 [Packages](https://github.com/unifiton/kantanni/packages)
 
-- jro_k
+jro_k was here...
