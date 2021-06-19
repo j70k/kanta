@@ -1,5 +1,5 @@
 # @unifiton/kantanni
-## main branch
+## stable branch
                                                                                
 
 ### ***sometimes you gotta be hurt to be stronger.***
