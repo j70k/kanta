@@ -2,8 +2,8 @@
 ## main branch
                                                                                
 
-sometimes you gotta be hurt to be stronger.
+### ***sometimes you gotta be hurt to be stronger.***
 
 [Packages](https://github.com/unifiton/kantanni/packages)
 
-- jro_k
+jro_k was here
