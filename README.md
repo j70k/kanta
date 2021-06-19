@@ -1,5 +1,6 @@
-# @unifiton/kantanni
-## dev branch
+# kantanni
+
+[![NPM](https://nodei.co/npm/kantanni.png)](https://nodei.co/npm/kantanni/)
                                                                                
 
 ### ***sometimes you gotta be hurt to be stronger.***
