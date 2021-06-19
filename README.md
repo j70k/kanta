@@ -2,7 +2,7 @@
 ## main branch
 
 
-i REALLY don't know what i'm doing with this.
+sometimes you gotta be hurt to be stronger.
 
 [Packages](https://github.com/unifiton/kantanni/packages)
 
