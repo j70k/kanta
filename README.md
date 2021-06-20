@@ -26,7 +26,7 @@ npm install soti
 or you can add this to your dependencies in your package.json
 
 ```json
-"soti": "0.0.1"
+"soti": "0.0.3"
 ```
 
 
