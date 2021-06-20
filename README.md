@@ -1,11 +1,17 @@
 # kantanni
+## the useless npm module... | ***sometimes you gotta be hurt to be stronger.***
 
 [![NPM](https://nodei.co/npm/kantanni.png)](https://nodei.co/npm/kantanni/)
                                                                                
 
-### ***sometimes you gotta be hurt to be stronger.***
+
 
 ## About
+this is... very useless.
+
+it doesn't have much to it.
+
+please spare your time and don't install this...
 
 ## Install
 
@@ -14,17 +20,16 @@ i do **not** know why'd you want to install this, it's so useless.
 anyways, here is the npm command to install it.
 
 ```sh
-npm install @unifiton/kantanni@0.0.2
+npm install kantanni
 ```
 or you can add this to your dependencies in your package.json
 
 ```json
-"@unifiton/kantanni": "version - currently only 0.0.1 & 0.0.2"
+"kantanni": "0.0.5"
 ```
 
-you **CANNOT** at this time install kantanni without putting the @unifiton/ in front of it, i'll look into that.
 
-kantanni can be installed from the Github Package Registry.
+kantanni can be installed from the NPM Package Registry.
 
 then again, why would you want to install this?
 
