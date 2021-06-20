@@ -1,5 +1,5 @@
 # soti
-## the useless npm module... | ***sometimes you gotta be hurt to be stronger.***
+## the useless npm module...
 
 
 [![NPM](https://nodei.co/npm/soti.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/soti/)
@@ -26,7 +26,7 @@ npm install soti
 or you can add this to your dependencies in your package.json
 
 ```json
-"soti": "0.0.1"
+"soti": "0.0.3"
 ```
 
 
