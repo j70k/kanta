@@ -1,5 +1,5 @@
 # kantanni
-## the useless npm module... | ***sometimes you gotta be hurt to be stronger.***
+## something useless
 
 [![NPM](https://nodei.co/npm/kantanni.png)](https://nodei.co/npm/kantanni/)
                                                                                
