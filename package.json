@@ -1,6 +1,6 @@
 {
   "name": "kantanni",
-  "version": "0.0.2",
+  "version": "0.0.5",
   "description": "an npm module for stuff",
   "main": "module.js",
   "scripts": {
