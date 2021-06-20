@@ -1,4 +1,4 @@
-# kantanni
+# soti
 ## the useless npm module... | ***sometimes you gotta be hurt to be stronger.***
 
 [![NPM](https://nodei.co/npm/kantanni.png)](https://nodei.co/npm/kantanni/)
@@ -20,23 +20,23 @@ i do **not** know why'd you want to install this, it's so useless.
 anyways, here is the npm command to install it.
 
 ```sh
-npm install kantanni
+npm install soti
 ```
 or you can add this to your dependencies in your package.json
 
 ```json
-"kantanni": "0.0.5"
+"soti": "0.0.1"
 ```
 
 
-kantanni can be installed from the NPM Package Registry.
+soti can be installed from the NPM Package Registry.
 
 then again, why would you want to install this?
 
 
 ## Links
 here are some links:
-[Packages](https://github.com/unifiton/kantanni/packages)
+[Packages](https://github.com/unifiton/soti/packages)
 
 
 no documentation because this is useless right now...

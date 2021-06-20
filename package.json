@@ -1,6 +1,6 @@
 {
-  "name": "kantanni",
-  "version": "0.0.5",
+  "name": "soti",
+  "version": "0.0.1",
   "description": "an npm module for stuff",
   "main": "module.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/unifiton/kantanni"
+    "url": "https://github.com/unifiton/soti"
   },
   "author": "jro_k",
   "license": "BSD-3-Clause"
