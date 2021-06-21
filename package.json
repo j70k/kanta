@@ -1,6 +1,6 @@
 {
   "name": "soti",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "description": "the useless npm module...",
   "main": "module.js",
   "scripts": {
@@ -10,6 +10,13 @@
     "type": "git",
     "url": "https://github.com/unifiton/soti"
   },
-  "author": "jro_k",
-  "license": "BSD-3-Clause"
+  "author": "jro_k <whyjrok@gmail.com> (https://github.com/jr-ok)",
+  "contributors": [
+    "jro_k (https://github.com/jr-ok)"
+  ],
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "ytdl-core": "^4.8.2"
+  }
 }
