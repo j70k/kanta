@@ -20,5 +20,5 @@ class loader {}
 
 module.exports = {
   // exports
-  Constructor: require('./modules/constructor.js'),
+  About: require('./modules/polygon.js'),
 };
