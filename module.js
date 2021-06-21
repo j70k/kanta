@@ -14,7 +14,7 @@
  * the main loader for soti.
  * 
  */
-class module {}
+class loader {}
 
 
 
