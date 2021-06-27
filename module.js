@@ -1,17 +1,17 @@
 /* =============================================================================
- * This file is part of soti.
+ * This file is part of kanta.
  *
  * For detailed copyright and license information, please review the
  * LICENSE & INFO files distributed with this software. 
  * 
- * @unifiton/soti
+ * @unifiton/kanta
  * 
  * Please retain this notice in future distributions of this software.
  * =============================================================================
  */
 
 /**
- * the main loader for soti.
+ * the main loader for kanta.
  * 
  */
 class loader {}
@@ -20,5 +20,10 @@ class loader {}
 
 module.exports = {
   // exports
-  About: require('./modules/polygon.js'),
+  AboutPackage: require('./modules/about.js'),
+  Strings: require('./modules/strings.js'),
+  JSONObject: require('./modules/message.js')
+
 };
+
+module.exports = loader;

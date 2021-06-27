@@ -1,3 +1,3 @@
-declare module 'soti' {
+declare module 'kanta' {
   
 }
