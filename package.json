@@ -1,6 +1,6 @@
 {
-  "name": "soti",
-  "version": "0.0.8",
+  "name": "kanta",
+  "version": "0.0.9",
   "description": "the useless npm module...",
   "main": "module.js",
   "scripts": {
@@ -8,9 +8,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/unifiton/soti"
+    "url": "https://github.com/unifiton/kanta"
   },
-  "author": "jro_k <whyjrok@gmail.com> (https://github.com/jr-ok)",
+  "author": "jro_k (https://github.com/jr-ok)",
   "contributors": [
     "jro_k (https://github.com/jr-ok)"
   ],
