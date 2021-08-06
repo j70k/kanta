@@ -21,6 +21,8 @@ class AboutPackage {
 
     }
   }
+
+  // will leave this in because AMONG US (joke only, my friends are obsessed with among us :DD)
   
   const poly1 = new About();
   
