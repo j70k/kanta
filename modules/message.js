@@ -39,7 +39,7 @@
      }
    }
    
-   const poly1 = new About();
+   const poly1 = new jsonobject();
    
    console.log(poly1.name);
    // expected output: "Polygon"
