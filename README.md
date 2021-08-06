@@ -26,7 +26,7 @@ npm install kanta
 or you can add this to your dependencies in your package.json
 
 ```json
-"kanta": "0.0.10"
+"kanta": "version_goes_here"
 ```
 
 
