@@ -20,10 +20,7 @@ class loader {}
 
 module.exports = {
   // exports
-  AboutPackage: require('./modules/about.js'),
-  Strings: require('./modules/strings.js'),
-  JSONObject: require('./modules/message.js')
+  AboutPackage: require('./modules/about.js')
 
 };
 
-module.exports = loader;
