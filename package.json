@@ -1,6 +1,6 @@
 {
   "name": "kanta",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "description": "the useless npm module...",
   "main": "module.js",
   "scripts": {
