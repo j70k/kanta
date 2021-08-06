@@ -25,10 +25,5 @@ class AboutPackage {
   // will leave this in because AMONG US (joke only, my friends are obsessed with among us :DD)
   
   const poly1 = new AboutPackage();
-  
-  console.log(poly1.name);
-  // expected output: "Polygon"
-   
-  // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/constructor
 
 module.exports = AboutPackage;
