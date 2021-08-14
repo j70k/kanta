@@ -20,7 +20,8 @@ class loader {}
 
 module.exports = {
   // exports
-  AboutPackage: require('./modules/about.js')
+  AboutPackage: require('./modules/about.js'),
+  FunctionTest: require('./modules/functions.js')
 
 };
 
