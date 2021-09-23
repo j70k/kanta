@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## kanta
 
 You can use the [editor on GitHub](https://github.com/jr-ok/kanta/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
