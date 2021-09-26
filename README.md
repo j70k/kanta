@@ -26,7 +26,7 @@ npm install kanta
 or you can add this to your dependencies in your package.json
 
 ```json
-"kanta": "0.0.3"
+"kanta": "0.0.x"
 ```
 
 
@@ -42,3 +42,4 @@ here are some links:
 
 no documentation because this is useless right now...
 jro_k was here...
+klleen was here:)
