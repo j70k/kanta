@@ -26,9 +26,9 @@ npm install kanta
 or you can add this to your dependencies in your package.json
 
 ```json
-"kanta": "version_goes_here"
+"kanta": "0.0.x"
 ```
-
+x = version number 
 
 kanta can be installed from the NPM Package Registry.
 
@@ -40,5 +40,7 @@ here are some links:
 [Packages](https://github.com/unifiton/kanta/packages)
 
 
-no documentation because this is useless right now...
+no documentation because this is useless right now... (execept contribution guidelines)
+
 jro_k was here...
+klleen was here:)
