@@ -4,7 +4,7 @@
  * For detailed copyright and license information, please review the
  * LICENSE & INFO files distributed with this software. 
  * 
- * @unifiton/kanta
+ * @jr-ok/kanta
  * 
  * Please retain this notice in future distributions of this software.
  * =============================================================================
