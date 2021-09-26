@@ -37,7 +37,7 @@ then again, why would you want to install this?
 
 ## Links
 here are some links:
-[Packages](https://github.com/unifiton/kanta/packages)
+[Packages](https://github.com/jr-ok/kanta/packages)
 
 
 no documentation because this is useless right now...
