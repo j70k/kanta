@@ -1,22 +1,11 @@
 {
-  "name": "kanta",
-  "version": "0.0.14",
-  "description": "the useless npm module...",
+  "name": "b2fp",
+  "version": "1.0.1",
+  "description": "cool npm module ",
   "main": "module.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/jr-okkanta"
-  },
-  "author": "jro_k (https://github.com/jr-ok)",
-  "contributors": [
-    "jro_k (https://github.com/jr-ok)"
-  ],
-  "license": "BSD-3-Clause",
-  "dependencies": {
-    "discord.js": "^12.5.3",
-    "ytdl-core": "^4.8.2"
-  }
+  "author": "j70k",
+  "license": "MIT"
 }
