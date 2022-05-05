@@ -1,5 +1,7 @@
 # b2fp 
 
+[![NPM](https://nodei.co/npm/b2fp.png?compact=true)](https://nodei.co/npm/b2fp/)
+
 What is b2fp? It's another useless NPM module!!!
 Truly, it's meant to make my life easier, but you don't need it.
 
